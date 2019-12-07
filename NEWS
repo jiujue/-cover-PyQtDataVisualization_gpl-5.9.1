@@ -1,0 +1,25 @@
+v5.9.1 1st November 2017
+  - Added support for Qt Data Visualization v5.9.2.
+
+v5.9 3rd July 2017
+  - Added support for Qt Data Visualization v5.9.0 and v5.9.1.
+
+v5.8 15th February 2017
+  - Added support for Qt Data Visualization v5.8.0.
+
+v5.7.1 25th December 2016
+  - Added support for Qt Data Visualization v5.7.1.
+
+v5.7 25th July 2016
+  - Added support for Qt Data Visualization v5.7.0.
+
+v1.2 24th December 2014
+  - Added support for Qt Data Visualization v1.2.0.
+  - Added the volumetric.py example.
+
+v1.1 3rd July 2014
+  - Added support for Qt Data Visualization v1.1.0.
+  - configure.py now supports cross-compilation to iOS and Android.
+
+v1.0 29th March 2014
+  - Initial release for Qt Data Visualization v1.0.0.
